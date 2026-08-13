@@ -14,3 +14,5 @@ venv/
 
 # OS
 .DS_Store
+
+pdf-to-suggestion/SECRETS_COPY_ME.toml
